@@ -43,6 +43,10 @@ Take the model with its 98.7% reliability score and filter through loan applicat
 Build upon the model with more data (try to balance out the data).
 Sell the model to other banks or use it as a service. 
 
+ 
+Conclusion:
+The data was provided by a third party and then cleaned and prepared on site to train a linear svm model that resulted in a 98.7% F1 score when predicting if a borrower is likely to default. 
+
 
 
 
