@@ -12,10 +12,10 @@ Some models to try for this scenario include classification models such as Linea
 
 In this case, the data includes features hard facts about the loan, such as duration, interest rate and so on as well as more subjective features such as a description of the purpose of the loan, which is supplied by the borrower. 
 
-Jumping into the data:
+Jumping into the data:</br>
 					Default (1) vs. Non-Default (0)
 
-<img src='./src/default.png' height='300px' width='350px'>
+<img src='./src/default.png' height='300px' width='450px'>
 		
 
 
@@ -28,7 +28,7 @@ Jumping into the data:
 
 
 
-Note: 87% of the data classify as non-defaulting (0), which is very unbalanced.
+Note: 87% of the data classify as non-defaulting (0), which is very unbalanced.</br>
 The Data:
 The dataset used to train these classification models came from https://data.world/jaypeedevlin/lending-club-loan-data-2007-11. The shape of the data is 115 features by 42538 rows of data all in one csv file (42.3 MB). The first go round, no extra feature engineering was done other than to convert the loan_status column into meaningful default values of 0 or 1 (our dependent variable). 
 
