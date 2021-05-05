@@ -15,7 +15,7 @@ In this case, the data includes features hard facts about the loan, such as dura
 Jumping into the data:
 					Default (1) vs. Non-Default (0)
 
-
+<img src='./src/default.png'>
 		
 
 
